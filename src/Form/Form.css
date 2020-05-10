@@ -1,0 +1,24 @@
+.input {
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    padding: 10px;
+    color: blanchedalmond;
+
+    background-color: rgb(33, 33, 37);
+    border: none;
+}
+
+.btn {
+    height: 40px;
+    margin: 10px;
+    color: rgb(238, 234, 227);
+    background-color: rgb(33, 33, 37);
+    border: none;
+    cursor: pointer;
+    transition: opacity linear .1s;
+}
+
+.btn:hover {
+    opacity: .7;  
+}
